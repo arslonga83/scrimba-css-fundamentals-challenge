@@ -42,6 +42,10 @@ h3 {
   margin: 0px;
 }
 
+p {
+  margin-bottom: 0;
+}
+
 .small {
   margin-top: 0;
   font-size: 16px;
@@ -54,6 +58,21 @@ a {
 
 a:hover, a:focus {
   color: #131313;
+}
+
+.link-btn {
+  color: #252525;
+  background: #99D930;
+  text-decoration: none;
+  padding: 20px 30px;
+  margin-top: 40px;
+  display: inline-block;
+}
+
+.link-btn:hover, 
+.link-btn:focus {
+  color: #fff;
+  background: #252525;
 }
 
 header,
