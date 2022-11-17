@@ -53,8 +53,8 @@ a:hover, a:focus {
 }
 
 header,
-main, 
-section {
+.about-me, 
+.article {
   padding: 100px 0;
 }
 
@@ -62,10 +62,10 @@ header {
   background: #d7d7d7;
 }
 
-main {
+.about-me {
   background: #ffeaea;
 }
 
-section {
+.article {
   background: #eaf9ff;
 }
